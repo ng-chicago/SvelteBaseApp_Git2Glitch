@@ -1,6 +1,6 @@
 {
-    "name": "My Pets App",
-    "short_name": "My Pets",
+    "name": "Svelte App",
+    "short_name": "Svelte",
     "theme_color": "#1976d2",
     "background_color": "#fafafa",
     "display": "standalone",
